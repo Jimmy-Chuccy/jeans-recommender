@@ -1,0 +1,23 @@
+product_id,product_name,fit_id,fabric_id,wash_state,gender,colorway,status,price,product_url,stretch
+levis_501_001,501® Original Fit Men's Jeans,501,,,mens,white,on-sales,62.98,https://www.levi.com/CA/en_CA/clothing/men/jeans/straight/501-original-fit-mens-jeans/p/005010651,non-stretch
+levis_501_002,501® Original Fit Men's Jeans,501,,,mens,black,regular,79.95,https://www.levi.com/CA/en_CA/clothing/men/jeans/straight/501-original-fit-mens-jeans/p/005010660,non-stretch
+levis_501_003,501® Original Fit Men's Jeans,501,,medium_wash,mens,washed_indigo,regular,99.95,https://www.levi.com/CA/en_CA/clothing/men/jeans/straight/501-original-fit-mens-jeans/p/005013306,non-stretch
+levis_501_004,501® Original Fit Men's Jeans,501,,light_wash,mens,light_indigo,on-sales,62.98,https://www.levi.com/CA/en_CA/clothing/men/jeans/straight/501-original-fit-mens-jeans/p/005013337,low_stretch
+levis_501_005,501® Original Fit Men's Jeans,501,,dark_wash,mens,clean_rigid_dark_wash,regular,79.95,https://www.levi.com/CA/en_CA/clothing/men/jeans/straight/501-original-fit-mens-jeans/p/005010536,non-stretch
+levis_511_001,511™ Slim Fit Men's Jeans,511,,,mens,black_knight,on-sales,75.98,https://www.levi.com/CA/en_CA/jeans-by-fit-number/men/jeans/511TM/511TM-slim-fit-mens-jeans/p/045114969,high_stretch
+levis_511_002,511™ Slim Fit Men's Jeans,511,,medium_wash,mens,washed_indigo,on-sales,111.98,https://www.levi.com/CA/en_CA/clothing/men/jeans/slim/511TM-slim-fit-mens-jeans/p/045115667,high_stretch
+levis_505_001,505™ Regular Fit Men's Jeans,505,,medium_wash,mens,washed_indigo,regular,89.95,https://www.levi.com/CA/en_CA/clothing/men/jeans/straight/505TM-regular-fit-mens-jeans/p/005052915,low_stretch
+levis_505_002,505™ Regular Fit Men's Jeans,505,,,mens,black,regular,118.00,https://www.levi.com/CA/en_CA/clothing/men/jeans/straight/505TM-regular-fit-authentic-soft-mens-jeans/p/005053038,low_stretch
+levis_505_003,505™ Regular Fit Authentic Soft Men's Jeans,505,,dark_wash,mens,indigo,regular,118.00,https://www.levi.com/CA/en_CA/clothing/men/jeans/straight/505TM-regular-fit-authentic-soft-mens-jeans/p/005050000,low_stretch
+levis_505_004,505™ Regular Fit Men's Jeans,505,,,mens,black,regular,89.95,https://www.levi.com/CA/en_CA/jeans-by-fit-number/men/jeans/505TM/505TM-regular-fit-mens-jeans/p/005051469,high_stretch
+levis_505_005,505™ Regular Fit Men's Jeans,505,,stonewash,mens,medium_stonewash,regular,79.95,https://www.levi.com/CA/en_CA/jeans-by-fit-number/men/jeans/505TM/505TM-regular-fit-mens-jeans/p/005054891,non-stretch
+levis_514_001,514™ Straight Fit Men's Jeans,514,,dark_wash,mens,dark_wash,regular,89.95,https://www.levi.com/CA/en_CA/clothing/men/jeans/straight/514TM-straight-fit-mens-jeans/p/005141325,low_stretch
+levis_514_002,514™ Straight Fit Men's Jeans,514,,medium_wash,mens,washed_indigo,on-sales,62.98,https://www.levi.com/CA/en_CA/clothing/men/jeans/straight/514TM-straight-fit-mens-jeans/p/005141593,high_stretch
+levis_517_001,517™ Bootcut Men's Jeans,517,,stonewash,mens,medium_stonewash,regular,89.95,https://www.levi.com/CA/en_CA/clothing/men/jeans/bootcut/517TM-bootcut-mens-jeans/p/005174891,non-stretch
+levis_517_002,517™ Bootcut Men's Jeans,517,,,mens,black,regular,89.95,https://www.levi.com/CA/en_CA/clothing/men/jeans/bootcut/517TM-bootcut-mens-jeans/p/005170260,non-stretch
+levis_517_003,517™ Bootcut Men's Jeans,517,,medium_wash,mens,washed_indigo,on-sales,83.98,https://www.levi.com/CA/en_CA/clothing/men/jeans/bootcut/517TM-bootcut-mens-jeans/p/005170242,low_stretch
+levis_541_001,541™ Athletic Taper Fit Men's Jeans,541,,medium_wash,mens,washed_indigo,on-sales,82.98,https://www.levi.com/CA/en_CA/clothing/men/jeans/taper/541TM-athletic-taper-fit-mens-jeans/p/181810890,low_stretch
+levis_541_002,541™ Athletic Taper Fit Men's Jeans,541,,medium_wash,mens,washed_indigo,on-sales,82.98,https://www.levi.com/CA/en_CA/clothing/men/jeans/taper/541TM-athletic-taper-fit-mens-jeans/p/181810832,high_stretch
+levis_550_001,550™ Relaxed Fit Men's Jeans,550,,stonewash,mens,medium_stonewash,regular,79.95,https://www.levi.com/CA/en_CA/clothing/men/jeans/relaxed/550TM-relaxed-fit-mens-jeans/p/005504891,non-stretch
+levis_550_002,550™ Relaxed Fit Men's Jeans,550,,,mens,black,regular,79.95,https://www.levi.com/CA/en_CA/clothing/men/jeans/relaxed/550TM-relaxed-fit-mens-jeans/p/005500260,non-stretch
+levis_550_003,550™ Relaxed Fit Men's Jeans,550,,light_wash,mens,light_indigo,regular,89.95,https://www.levi.com/CA/en_CA/clothing/men/jeans/relaxed/550TM-relaxed-fit-mens-jeans/p/005500114,non-stretch

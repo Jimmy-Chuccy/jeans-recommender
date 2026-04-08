@@ -1,0 +1,36 @@
+# Scraper configuration for the project.
+# Use separate keys per brand for ongoing maintenance.
+
+nudie_jeans:
+  base_url: "https://www.nudiejeans.com"
+  locale_path: "/en-CA"
+  currency: "CAD"
+  # Men's fits (one product belongs to one fit; each fit has many products)
+  mens_fits:
+    - name: "Tight Terry"
+      slug: "tight-terry"
+    - name: "Grim Tim"
+      slug: "grim-tim"
+    - name: "Lean Dean"
+      slug: "lean-dean"
+    - name: "Slim Jim"
+      slug: "slim-jim"
+    - name: "Solid Ollie"
+      slug: "solid-ollie"
+    - name: "Gritty Jackson"
+      slug: "gritty-jackson"
+    - name: "Flare Glenn"
+      slug: "flare-glenn"
+    - name: "Steady Eddie II"
+      slug: "steady-eddie-ii"
+    - name: "Rad Rufus"
+      slug: "rad-rufus"
+    - name: "Tuff Tony"
+      slug: "tuff-tony"
+    - name: "Loud Larry"
+      slug: "loud-larry"
+
+# Add other scrapers here as needed, e.g.:
+# naked_famous:
+#   base_url: "https://nakedandfamousdenim.com"
+#   currency: "USD"
