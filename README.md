@@ -4,6 +4,20 @@ Conversational **WhatsApp** bot that recommends men’s jeans across **Naked & F
 
 Built as a portfolio project: **Python** recommendation logic over curated **CSV** data, **Flask** webhook, **Twilio** WhatsApp, deployable to **Google Cloud Run**.
 
+## Try the live bot on WhatsApp (no Twilio account needed)
+
+You can test the bot from your own phone using Twilio’s **shared sandbox number** and this project’s sandbox keyword. You do **not** need to sign up for Twilio.
+
+1. Open **WhatsApp** and start a chat with **`+14155238886`** (US: +1 415 523 8886).
+2. Send this **first** so your number is joined to this sandbox (include the word `join` and a space):
+   ```text
+   join citizen-recently
+   ```
+3. Wait for Twilio’s confirmation message that you’re connected to the sandbox.
+4. Send **`start`**, then answer the bot’s questions. You can also use **`help`** or **`reset`**.
+
+**Note:** Replies only work while the maintainer’s **webhook is live** (e.g. Cloud Run) and pointed at this Twilio sandbox. Twilio **trial** limits may apply; see the note under [Live demo (WhatsApp)](#live-demo-whatsapp) below.
+
 ## Live demo (WhatsApp)
 
 1. Use [Twilio’s WhatsApp Sandbox](https://www.twilio.com/docs/whatsapp/sandbox): join with the code Twilio shows for your account.
