@@ -1,8 +1,8 @@
 # Multi-brand jeans fit recommender (WhatsApp)
 
-Conversational **WhatsApp** bot that recommends men’s jeans across **Naked & Famous**, **Nudie Jeans**, and **Levi’s** from fit preference, an optional reference model/size, and short measurement-style questions (rise, thigh, leg). Includes an **on-sale / promotional** path when the user skips fit and has no reference brand.
+Conversational **WhatsApp** bot that helps users find the perfect men’s jeans across **Naked & Famous**, **Nudie Jeans**, and **Levi’s**, based on each customer’s fit preference, past purchases and detailed body measurements. Even when a user has no particular preference in mind, this **WhatsApp** bot will tell him/her what are currently on sale to unlock some window shopping opportunities.
 
-Built as a portfolio project: **Python** recommendation logic over curated **CSV** data, **Flask** webhook, **Twilio** WhatsApp, deployable to **Google Cloud Run**.
+Built as an in-industry side project: **Python** recommendation logic over curated and scraped **CSV** data, **Flask** webhook, **Twilio** WhatsApp, deployable to **Google Cloud Run**, that facilitate tailored and reliable recommendation via easy-to-use user interface.
 
 ## Try the live bot on WhatsApp (no Twilio account needed)
 
