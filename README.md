@@ -112,8 +112,6 @@ If you **replaced local history** (e.g. after fixing secret-scanning blocks) and
 
 `git push -u origin main --force`
 
-3. On the GitHub repo page, add **Topics** (e.g. `python`, `recommendation-system`, `whatsapp`, `twilio`, `google-cloud-run`, `flask`, `retail`, `fashion`) so recruiters can discover it.
-
 Set your Git author if needed: `git config user.email "you@example.com"` and `git config user.name "Your Name"` before amending commits: `git commit --amend --reset-author`.
 
 ## License
